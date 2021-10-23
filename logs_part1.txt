@@ -1,0 +1,20 @@
+cfcb99d (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{0}: merge develop: Fast-forward
+f6f4ba2 HEAD@{1}: checkout: moving from feature2 to master
+cfcb99d (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{2}: merge develop: Fast-forward
+622fb44 (origin/feature2) HEAD@{3}: checkout: moving from feature1 to feature2
+cfcb99d (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{4}: merge develop: Fast-forward
+3bc37f2 (origin/feature1) HEAD@{5}: checkout: moving from develop to feature1
+cfcb99d (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{6}: merge feature2: Merge made by the 'recursive' strategy.
+3bc37f2 (origin/feature1) HEAD@{7}: merge feature1: Fast-forward
+c93b18b (origin/develop) HEAD@{8}: checkout: moving from feature2 to develop
+622fb44 (origin/feature2) HEAD@{9}: commit: styles commit
+c93b18b (origin/develop) HEAD@{10}: checkout: moving from develop to feature2
+c93b18b (origin/develop) HEAD@{11}: checkout: moving from feature1 to develop
+3bc37f2 (origin/feature1) HEAD@{12}: commit: cats_index commit
+d25c1c5 HEAD@{13}: commit: img commit
+c93b18b (origin/develop) HEAD@{14}: checkout: moving from develop to feature1
+c93b18b (origin/develop) HEAD@{15}: checkout: moving from master to develop
+f6f4ba2 HEAD@{16}: checkout: moving from develop to master
+c93b18b (origin/develop) HEAD@{17}: commit: index commit
+f6f4ba2 HEAD@{18}: checkout: moving from master to develop
+f6f4ba2 HEAD@{19}: commit (initial): first commit
